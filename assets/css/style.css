@@ -1,0 +1,11 @@
+body,html {background: #000;margin: 10px 0;padding: 0;text-align: center;font-size: 1em;}
+span {font-weight: bold;text-transform: uppercase;text-decoration: none;color: #fff;user-select: none;cursor: pointer;}
+img {width: 30px;margin-top: 9px;}
+p.creio,p.ave,p.pai,p.salve{margin: 10px 100px;}
+.container{border-radius: 20%;background: #fff;width: 45%;margin: auto;padding-bottom: 1px;}
+.wrapper {width: 100%;margin: 0 auto;display: flex;flex-direction: row;justify-content:center;align-items: center;}
+#misterio01, #misterio02, #misterio03, #misterio04, #misterio05 {display: flex;flex-direction: column;justify-content: space-around;margin-bottom: 10px;padding: 0 20px;}
+.aveMaria, .paiNosso, .salveRainha {margin: 10px 20px;}
+i{margin: 20px;}
+#seção01{display: flex;flex-direction: row;justify-content: center;}
+.link,.top {margin: 15px;display: block;}
